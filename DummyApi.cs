@@ -21,6 +21,7 @@ namespace SampleAPITest
 
                 // act
                 IRestResponse response = client.Execute(request);
+            
 
                 // assert
                 Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.OK));
@@ -42,6 +43,7 @@ namespace SampleAPITest
 
         [TestCase("nl", "3825", HttpStatusCode.OK, TestName = "Check status code for NL zip code 7411")]
         [TestCase("lv", "1050", HttpStatusCode.NotFound, TestName = "Check status code for LV zip code 1050")]
+      
         public void StatusCodeTest(string countryCode, string zipCode, HttpStatusCode expectedHttpStatusCode)
         {
             // arrange
@@ -66,8 +68,8 @@ namespace SampleAPITest
             IRestResponse response = client.Execute(request);
 
             LocationResponse locationResponse =
-                new JsonDeserializer().
-                Deserialize<LocationResponse>(response);
+                new JsonDeserializer().Deserialize<LocationResponse>(response);
+           
 
             // assert
             Assert.That(locationResponse.CountryAbbreviation, Is.EqualTo("US"));
@@ -87,6 +89,22 @@ namespace SampleAPITest
 
             // assert
             Assert.That(locationResponse.Places[0].State, Is.EqualTo("New York"));
+        }
+
+        [Test]
+        public void PostRequestStatusCodeTest()
+        {
+            // arrange
+            RestSharp.RestClient client = new RestSharp.RestClient("https://reqres.in/");
+            RestRequest request = new RestRequest("api/users", Method.POST);
+            var requestboby = new UserCreation { name = "morpheus", job = "leader" };
+            request.AddJsonBody(requestboby);
+
+            // act
+            IRestResponse response = client.Execute(request);
+           
+            // assert command
+            Assert.That(response.StatusCode, Is.EqualTo(HttpStatusCode.Created));
         }
     }
 }

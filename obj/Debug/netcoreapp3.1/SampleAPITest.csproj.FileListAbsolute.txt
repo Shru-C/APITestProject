@@ -1,8 +1,12 @@
-C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\obj\Debug\netcoreapp3.1\SampleAPITest.csproj.AssemblyReference.cache
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\obj\Debug\netcoreapp3.1\SampleAPITest.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\obj\Debug\netcoreapp3.1\SampleAPITest.AssemblyInfoInputs.cache
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\obj\Debug\netcoreapp3.1\SampleAPITest.AssemblyInfo.cs
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\obj\Debug\netcoreapp3.1\SampleAPITest.csproj.CoreCompileInputs.cache
+C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\SampleAPITest.deps.json
+C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\SampleAPITest.dll
+C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\SampleAPITest.pdb
+C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\obj\Debug\netcoreapp3.1\SampleAPITest.dll
+C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\obj\Debug\netcoreapp3.1\SampleAPITest.pdb
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\testhost.dll
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\testhost.exe
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -11,13 +15,9 @@ C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\nunit.engine.dll
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
-C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\SampleAPITest.deps.json
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\SampleAPITest.runtimeconfig.json
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\SampleAPITest.runtimeconfig.dev.json
-C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\SampleAPITest.dll
-C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\SampleAPITest.pdb
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
-C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
@@ -38,7 +38,6 @@ C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\nunit.framework.dll
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\RestClient.dll
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\RestSharp.dll
-C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
@@ -105,6 +104,6 @@ C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\obj\Debug\netcoreapp3.1\SampleAPITest.csproj.CopyComplete
-C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\obj\Debug\netcoreapp3.1\SampleAPITest.dll
-C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\obj\Debug\netcoreapp3.1\SampleAPITest.pdb
 C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\obj\Debug\netcoreapp3.1\SampleAPITest.genruntimeconfig.cache
+C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\bin\Debug\netcoreapp3.1\testcentric.engine.metadata.dll
+C:\Users\shruthi.c\source\repos\SampleAPITest\SampleAPITest\obj\Debug\netcoreapp3.1\SampleAPITest.csproj.AssemblyReference.cache
